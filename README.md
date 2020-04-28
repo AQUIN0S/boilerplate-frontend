@@ -1,4 +1,4 @@
-# boilerplate-frontend
+# Boilerplate Frontend
 
 My version of a simple, boilerplate frontend using TypeScript and React that can be organised however one likes.
 
