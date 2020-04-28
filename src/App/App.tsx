@@ -5,7 +5,7 @@ class App extends React.Component<{}, {}> {
         super(props);
     }
 
-    render() { return <h1>Hello there!</h1> }
+    render() { return <h1>Help there!</h1> }
 }
 
-export default App; 
+export default App;
