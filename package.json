@@ -2,7 +2,7 @@
   "name": "boilerplate-frontend",
   "version": "1.0.0",
   "description": "A boilerplate React, Typescript and Webpack application",
-  "main": "bloop.bundle.js",
+  "main": "app.bundle.js",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
