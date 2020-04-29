@@ -18,7 +18,8 @@ module.exports = {
         new CleanWebpackPlugin(),
         new HtmlWebpackPlugin({
             title: 'Boilerplate Site', // Rename this
-            favicon: './favicon.svg' // Change image if you wish
+            favicon: './favicon.svg', // Change image if you wish
+            cache: false // Means that during webpack --watch, then index.html is always emitted after ./dist/ is cleaned
         })
     ],
     module: {

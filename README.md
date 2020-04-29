@@ -24,7 +24,3 @@ npm start
 ```
 
 Creates a development server and hot-reloads changes you make on the fly, allowing you to see the changes you make to a webpage instantly. This will not build your project into /dist however, use `npm run build` or `npm run watch` to do that.
-
-## HTML Webpack Plugin
-
-This project does not seem to work well with the latest version of HTML Webpack Plugin (`v4.2.0`) using the `npm run watch` command, so I've kept this plugin at `v3.2.0`.
